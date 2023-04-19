@@ -1,5 +1,5 @@
 # 💫 About Me:
-/ Im currently learning Mathematics ➕➖➗<br>/ Im currently learning Java development 💻
+☄ Im currently learning Mathematics ➕➖➗<br>☄ Im currently learning Java development 💻
 
 
 ## 🌐 Socials:
