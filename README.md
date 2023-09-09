@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌠 Im currently learning Mathematics ➕➖➗<br>🌠 Im learning Front-End development 💻
+🌠 Im currently learning *Applied Mathematics and Computer Science* at UNAM ➕➖➗<br>🌠 Im learning Front-End development 💻
 
 
 ## 🌐 Socials:
